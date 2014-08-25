@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://www.yqjk.com:2008/lnzw_inhouse.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xinhuanet.mis.zk</string>
+				<key>bundle-version</key>
+				<string>2.1.0514</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>增加图标功能</string>
+				<key>title</key>
+				<string>智库终端</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
