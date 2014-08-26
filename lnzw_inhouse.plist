@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.xinhuanet.mis.sxt</string>
 				<key>bundle-version</key>
-				<string>2.1.0514</string>
+				<string>2.1.0826</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>增加启动图稿件功能</string>
+				<string>修改启动图显示比例</string>
 				<key>title</key>
 				<string>新华舆情通</string>
 			</dict>
