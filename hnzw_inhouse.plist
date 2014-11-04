@@ -21,7 +21,7 @@
                                         <key>needs-shine</key>
                                         <true/>
                                         <key>url</key>
-                                        <string>http://demo.sc.chinaz.com/Files/pic/icons/5658/0.png</string>
+                                        <string>https://raw.githubusercontent.com/zhangjianxhs/dailyinfo/master/Icon.png</string>
                                 </dict>
                                  <!-- full-size-image: the large 512x512 icon used by iTunes. --> 
                                 <dict>
