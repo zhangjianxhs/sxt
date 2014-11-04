@@ -13,6 +13,25 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/zhangjianxhs/sxt/master/hnzw_inhouse.ipa</string>
 				</dict>
+				<!-- display-image: the icon to display during download.-->
+				<dict>
+                                        <key>kind</key>
+                                        <string>display-image</string>
+                                        <!-- optional. indicates if icon needs shine effect applied. -->
+                                        <key>needs-shine</key>
+                                        <true/>
+                                        <key>url</key>
+                                        <string>http://www.example.com/image.57x57.png</string>
+                                </dict>
+                                 <!-- full-size-image: the large 512x512 icon used by iTunes. --> 
+                                <dict>
+                                        <key>kind</key>
+                                        <string>full-size-image</string>
+                                        <key>needs-shine</key>
+                                        <true/>
+                                        <key>url</key>
+                                        <string>http://www.example.com/image.512x512.jpg</string>
+                                </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
