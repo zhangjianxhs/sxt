@@ -21,7 +21,7 @@
                                         <key>needs-shine</key>
                                         <true/>
                                         <key>url</key>
-                                        <string>http://www.example.com/image.57x57.png</string>
+                                        <string>http://demo.sc.chinaz.com/Files/pic/icons/5658/0.png</string>
                                 </dict>
                                  <!-- full-size-image: the large 512x512 icon used by iTunes. --> 
                                 <dict>
@@ -30,7 +30,7 @@
                                         <key>needs-shine</key>
                                         <true/>
                                         <key>url</key>
-                                        <string>http://www.example.com/image.512x512.jpg</string>
+                                        <string>https://www.iconfinder.com/icons/53248/download/png/512</string>
                                 </dict>
 			</array>
 			<key>metadata</key>
