@@ -13,30 +13,11 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/zhangjianxhs/sxt/master/hnzw_inhouse.ipa</string>
 				</dict>
-				<!-- display-image: the icon to display during download.-->
-				<dict>
-                                        <key>kind</key>
-                                        <string>display-image</string>
-                                        <!-- optional. indicates if icon needs shine effect applied. -->
-                                        <key>needs-shine</key>
-                                        <true/>
-                                        <key>url</key>
-                                        <string>https://raw.githubusercontent.com/zhangjianxhs/dailyinfo/master/Icon.png</string>
-                                </dict>
-                                 <!-- full-size-image: the large 512x512 icon used by iTunes. --> 
-                                <dict>
-                                        <key>kind</key>
-                                        <string>full-size-image</string>
-                                        <key>needs-shine</key>
-                                        <true/>
-                                        <key>url</key>
-                                        <string>https://www.iconfinder.com/icons/53248/download/png/512</string>
-                                </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xinhuanet.mis.sxt</string>
+				<string>com.xinhuanet.mis.sxt.fix8</string>
 				<key>bundle-version</key>
 				<string>2.0.0828</string>
 				<key>kind</key>
