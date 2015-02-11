@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/zhangjianxhs/sxt/master/lnfb.ipa</string>
+					<string>https://raw.githubusercontent.com/zhangjianxhs/sxt/master/lnzw_inhouse.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xinhuanet.mis.lnfb</string>
+				<string>com.xinhuanet.mis.sxt.fix8</string>
 				<key>bundle-version</key>
-				<string>2.2.0</string>
+				<string>2.1.1205</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>重要通知：原“新华舆情通”已全新升级为“辽宁发布·新华”，更多的辽宁资讯、更专业的舆情信息待您下载体验。感谢您一直的相伴与支持。您的反馈与点赞是我们发展前进的动力。谢谢！</string>
+				<string>优化检查版本</string>
 				<key>title</key>
-				<string>全新升级</string>
+				<string>新华舆情通</string>
 			</dict>
 		</dict>
 	</array>
