@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.xinhuanet.mis.lnfb</string>
 				<key>bundle-version</key>
-				<string>1.0.3</string>
+				<string>1.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string></string>
+				<string>增加文章中图片放大功能</string>
 				<key>title</key>
 				<string>辽宁发布</string>
 			</dict>
