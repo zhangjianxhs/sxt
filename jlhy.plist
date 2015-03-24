@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xinhuanet.mis.jlhy.fix8</string>
+				<string>com.xinhuanet.mis.jlhy</string>
 				<key>bundle-version</key>
 				<string>1.1.0</string>
 				<key>kind</key>
